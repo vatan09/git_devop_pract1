@@ -1,0 +1,28 @@
+kya karu bhai code he likh deta hu
+# # for i in range(1,6,1):
+# #     print("Hello world",i)
+# # for j in range(10,0,-1):
+# #     print(j)
+# list=[1,2,3,4,5,6,7,8,9]
+# print(len(list))
+# s=0
+# for x in list:
+#     s=s+x
+# print("sum = ",s)
+import math
+
+def fun1():
+    print("this is my first function")
+    print("2nd line")
+def sayHello(name="No Name"):
+    print("hello",name)
+def doSum(a,b):
+    return a+b
+
+#calling
+fun1()
+sayHello("Vatan")
+sayHello("Vikas")
+sayHello()
+print(doSum(2,3))
+m1.fun
